@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+.body_text {
+    font-size: 48
+}
+
+#special {
+    background - color:#ff4958
+}
